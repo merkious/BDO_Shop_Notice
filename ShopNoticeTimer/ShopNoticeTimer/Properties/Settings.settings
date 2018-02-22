@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShopNoticeTimer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Item0" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Przedmiot 1</Value>
+    </Setting>
+    <Setting Name="Item1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Przedmiot 2</Value>
+    </Setting>
+    <Setting Name="Item2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Przedmiot 3</Value>
+    </Setting>
+    <Setting Name="Item3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Przedmiot 3</Value>
+    </Setting>
+    <Setting Name="Item4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Przedmiot 4</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Przedmiot 5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
